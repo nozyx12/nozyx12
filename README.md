@@ -10,7 +10,7 @@
 * I use IntelliJ IDEA for Java and Kotlin projects.
 
 #### Contact me:
-* My Email adress is: [nozyxoff@gmail.com](mailto:/nozyxoff@proton.me)
+* My Email adress is: [nozyxoff@proton.me](mailto:/nozyxoff@proton.me)
 * I also have Discord and my username is: nozyx12
 
 [![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nozyx12&layout=pie&theme=darcula)
