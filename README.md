@@ -2,8 +2,8 @@
 
 #### About me:
 * I'm French 🇫🇷
-* I'm a Java and Kotlin developer ☕
-* I also know base of JavaScript, HTML, CSS and Python 🐍
+* I'm a JVM (Java, Kotlin) developer ☕
+* I also know base of JavaScript, HTML, CSS and Lua 🌙
 * I love creating small projets for fun 🌟
 * I speak French and English 🇫🇷 🇬🇧
 * I play Minecraft
