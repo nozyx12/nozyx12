@@ -2,8 +2,9 @@
 
 #### About me:
 * I'm French 🇫🇷
-* I code in Java, Kotlin and Lua 🌙
-* I also know base of HTML, CSS, JavaScript and Python 🐍
+* I code in Java and Lua 🌙
+* I also know HTML, JavaScript, and a little Python 🐍
+* * I am the founder of Kairos with [@Lucachinou](https://github.com/Lucachinou)
 * I love creating small projets for fun 🌟
 * I speak French and English 🇫🇷 🇬🇧
 * I play Minecraft and Roblox 🕹️
