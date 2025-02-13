@@ -2,8 +2,8 @@
 
 #### About me:
 * I'm French 🇫🇷
-* I code in Java and Lua 🌙
-* I also know HTML, JavaScript, and a little Python 🐍
+* I code in Java ☕
+* I also know HTML, JavaScript, Lua, and a little C++ and Python 🐍
 * I am the founder of [Kaleron](https://github.com/kaleronoff) with [Lucachinou](https://github.com/Lucachinou)
 * I love creating small projets for fun 🌟
 * I speak French and English 🇫🇷 🇬🇧
