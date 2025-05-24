@@ -8,7 +8,7 @@
 * I'm passionate about creating fun and useful projects, whether big or small. 🌟
 * I speak French and English 🇫🇷 🇬🇧 (I can manage well in English, though it’s not my first language!)
 * I play Minecraft and Roblox 🕹️
-* I use IntelliJ IDEA Ultimate for my Java projects and for the others programmaing languages, I use Visual Studio Code (with PlatformIO when I use it to program my ESP32)
+* I use IntelliJ IDEA Ultimate for my Java projects and for the others programming languages, I use Visual Studio Code (with PlatformIO when I use it to program my ESP32)
 
 #### Contact me:
 * You can contact me at: [nozyx@strivio.org](mailto:nozyx@strivio.org) or [nozyxoff@proton.me](mailto:nozyxoff@proton.me)
