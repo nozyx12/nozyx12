@@ -11,7 +11,7 @@
 * I use IntelliJ IDEA Ultimate for my Java projects and for the others programmaing languages, I use Visual Studio Code (with PlatformIO when I use it to program my ESP32)
 
 #### Contact me:
-* My Email adress is: [nozyxoff@proton.me](mailto:nozyxoff@proton.me)
+* You can contact me at: [nozyx@strivio.org](mailto:nozyx@strivio.org) or [nozyxoff@proton.me](mailto:nozyxoff@proton.me)
 * I also have Discord and my username is: nozyx12
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nozyx12&theme=darcula)
